@@ -10,4 +10,5 @@ a web-based multiplayer Uno game
    ```
 
 open http://localhost:3000 to play offline
+
 to play online with friends, you can use Ngrok or deploy to Render
